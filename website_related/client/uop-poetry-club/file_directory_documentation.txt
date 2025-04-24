@@ -1,0 +1,12 @@
+Directory is as follows
+DND Node Modules
+Public/Some Random Shit
+Src/Assets/React.svg(Shall Be changed)
+App.css
+App.jsx
+index.css
+main.jsx
+index.html
+package-lock.json
+package.json
+README.md 
