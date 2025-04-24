@@ -1,12 +1,25 @@
 Directory is as follows
 DND Node Modules
+
 Public/Some Random Shit
+
+modules/
+index.js
+Login.jsx 
+Register.jsx
+
+
+
 Src/Assets/React.svg(Shall Be changed)
+
 App.css
 App.jsx
+
 index.css
 main.jsx
+
 index.html
 package-lock.json
 package.json
+
 README.md 
