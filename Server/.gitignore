@@ -1,0 +1,6 @@
+# Ignore all .env files
+.env
+.env.*
+
+# Except .env.example and other tracked env templates
+!.env.example
