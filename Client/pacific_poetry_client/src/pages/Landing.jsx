@@ -10,7 +10,7 @@ function Landing() {
       textAlign: 'center', 
       fontSize: '24px' 
     }}>
-      Welcome to Poetry Blog
+      Welcome to Poetry Club of University of the Pacific
     </div>
   );
 }
